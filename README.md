@@ -3,7 +3,8 @@ Data science portfolio
 
 # Project 1: Housing price predictios
 * The goal for our dataset is to provide housing price predictions using linear regression, random forest, regression tree models, scikit preprocessing, and support vector machines
-[LR_housing](https://user-images.githubusercontent.com/77343941/161406621-d4904926-b8ea-4867-97af-e25ef810ce95.png)
+
+![LR_housing](https://user-images.githubusercontent.com/77343941/161406621-d4904926-b8ea-4867-97af-e25ef810ce95.png)
 
 # Project 2: Time Series Analysis and Forcasting of Airlines of the 2020 Pandemic.
 * Produced a time plot of the time series <i>prior to the collapse of the industry due to the pandemic in 2020.
