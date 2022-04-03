@@ -12,3 +12,4 @@ Data science portfolio
 * Use the AIC to choose the best SARIMA model for your data, then check the residual diagnostics.
 * Plotted the best-fit Exponential Smoothing model predicted values and forecast values along with the entire original air passenger dataset.
   
+![Airlines_pic JPEG](https://user-images.githubusercontent.com/77343941/161406428-987736f3-faff-4fcf-8768-576fb62cc312.png)
